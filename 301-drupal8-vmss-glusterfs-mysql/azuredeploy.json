@@ -40,9 +40,9 @@
     
     "drupalVersion": {
       "type": "string",
-      "defaultValue": "8.1.1",
+      "defaultValue": "8.3.0",
       "allowedValues": [
-        "8.1.1"
+        "8.3.0"
       ],
       "metadata": {
         "description": "The Drupal Version to be installed"
@@ -180,7 +180,7 @@
     },
     "templateLocation": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/301-drupal8-vmss-glusterfs-mysql",
+      "defaultValue": "https://github.com/bigredpen/azure-quickstart-templates/master/301-drupal8-vmss-glusterfs-mysql",
       "metadata": {
         "description": "template file location",
         "artifactsBaseUrl": "Base URL of the Publisher Template gallery package"
