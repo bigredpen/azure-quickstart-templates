@@ -180,7 +180,7 @@
     },
     "templateLocation": {
       "type": "string",
-      "defaultValue": "https://github.com/bigredpen/azure-quickstart-templates/master/301-drupal8-vmss-glusterfs-mysql",
+      "defaultValue": "https://raw.githubusercontent.com/bigredpen/azure-quickstart-templates/master/301-drupal8-vmss-glusterfs-mysql",
       "metadata": {
         "description": "template file location",
         "artifactsBaseUrl": "Base URL of the Publisher Template gallery package"
