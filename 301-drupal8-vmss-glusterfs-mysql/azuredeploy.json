@@ -40,9 +40,9 @@
     
     "drupalVersion": {
       "type": "string",
-      "defaultValue": "8.3.0",
+      "defaultValue": "8.3.6",
       "allowedValues": [
-        "8.3.0"
+        "8.3.6"
       ],
       "metadata": {
         "description": "The Drupal Version to be installed"
